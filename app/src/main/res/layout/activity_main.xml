@@ -71,7 +71,6 @@
         android:id="@+id/multiAutoCompleteTextView2"
         android:layout_width="match_parent"
         android:layout_height="18dp"
-        android:layout_weight="40dp"
         android:textAppearance="@style/TextAppearance.AppCompat"
         android:visibility="visible" />
 
@@ -196,7 +195,6 @@
                     <android.support.v7.widget.CardView
                         android:layout_width="match_parent"
                         android:layout_height="107dp"
-                        android:layout_weight="5dp"
                         app:cardBackgroundColor="@color/colorYellow">
 
                         <ImageView
@@ -212,7 +210,6 @@
                         android:id="@+id/multiAutoCompleteTextView"
                         android:layout_width="match_parent"
                         android:layout_height="18dp"
-                        android:layout_weight="40dp"
                         android:textAppearance="@style/TextAppearance.AppCompat"
                         android:visibility="visible" />
 
